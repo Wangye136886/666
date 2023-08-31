@@ -9,7 +9,7 @@ bash <(curl -Ls https://gitlab.com/rwkgyg/x-ui-yg/raw/main/install.sh)
 ```
 
 
-### [Github地址](https://github.com/yonggekkk/x-ui-yg)
+
 
 
 
